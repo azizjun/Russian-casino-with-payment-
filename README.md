@@ -22,3 +22,5 @@ Backend: PHP (Laravel), NodeJS
 Database: MySQL
 
 The project is organized in a modular structure, ensuring ease of maintenance and scalability.
+
+The full code -> https://mega.nz/file/IMVkiLyJ#sfNd33Wu0LqG_ShJi9blISnakhCDi4ooT652CoGG3r4
